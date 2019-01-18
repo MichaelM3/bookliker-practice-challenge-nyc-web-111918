@@ -102,6 +102,20 @@
           "id": 4,
           "username": "batz"
         }
+      ],
+      "likes": [
+        {
+          "id": 7,
+          "username": "steuber"
+        },
+        {
+          "id": 4,
+          "username": "batz"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
       ]
     },
     {
@@ -138,6 +152,24 @@
           "id": 2,
           "username": "auer"
         }
+      ],
+      "likes": [
+        {
+          "id": 9,
+          "username": "nikolaus"
+        },
+        {
+          "id": 3,
+          "username": "marvin"
+        },
+        {
+          "id": 2,
+          "username": "auer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
       ]
     },
     {
@@ -157,6 +189,24 @@
         {
           "id": 5,
           "username": "king"
+        }
+      ],
+      "likes": [
+        {
+          "id": 8,
+          "username": "goodwin"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 5,
+          "username": "king"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
